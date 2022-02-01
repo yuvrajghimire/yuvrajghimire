@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yuvrajghimire
+- 👋 Hi, I’m Yuvraj Ghimire,
 - 👀 I’m interested in Flutter development and Javascript.
 - 🌱 I’m currently learning flutter development.
 - 💞️ I’m looking to collaborate on any flutter open source projects.
