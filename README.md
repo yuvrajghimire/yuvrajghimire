@@ -3,6 +3,6 @@
 
 - 🔭 Currently working in different flutter projects.
 - 👀 Interested in Flutter development and Javascript.
-- 🌱 currently learning Flutter.
-- 💞️ Looking to collaborate with other developers and open source platforms.
+- 🌱 Currently learning Flutter.
+- 💞️ Looking to collaborate with other developers and in open source platforms.
 - 📫 How to reach me? email: yuv.ghimire@gmail.com
